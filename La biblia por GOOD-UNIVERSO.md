@@ -1,3 +1,5 @@
+.json
+
 # 📖 La Biblia por GOOD-UNIVERSO.
 
 
