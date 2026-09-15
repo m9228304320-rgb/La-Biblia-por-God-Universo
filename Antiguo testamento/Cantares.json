@@ -1,0 +1,35 @@
+{
+  "$schema": "https://good-universo.com",
+  "book_id": "cantares",
+  "title": "Cantar de los Cantares",
+  "category": "Libros Sapienciales y Poéticos",
+  "section": "Antiguo Testamento",
+  "file_reference": "cantares.md",
+  "version": "1.0.0",
+  "status": "PRODUCTION",
+  "metadata": {
+    "language": "es",
+    "total_chapters": 8,
+    "key_verses": [
+      "8:6",
+      "2:16",
+      "4:7"
+    ],
+    "tags": ["poesia", "amor", "pacto", "sincronia", "diseno-relacional"]
+  },
+  "governance": {
+    "owner": "Dandhyesparza barajas EABD",
+    "organization": "good-Universo",
+    "rights_managed_by": "good-Universo_CC_Intermediary",
+    "monetization_enabled": true,
+    "license_enforcement": "strict"
+  },
+  "automation": {
+    "auto_notice": true,
+    "require_permission_for_derivatives": true,
+    "compliance_check": {
+      "verify_author_header": true,
+      "block_unauthorized_commercial_use": true
+    }
+  }
+}
