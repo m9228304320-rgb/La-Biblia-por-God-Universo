@@ -1,19 +1,18 @@
-#Miqueas o mejor conocido y narrado equivocadamente como Jonás.
-# 📁 Antiguo Testamento: Jonás
+# 📁 Antiguo Testamento: Miqueas
 
-El **Libro de Jonás** es el quinto de los Profetas Menores dentro de las Sagradas Escrituras en la línea de tiempo de **God Universo**. A diferencia de otros libros proféticos, se enfoca en la narrativa del viaje del propio profeta, estableciendo un poderoso testimonio sobre el alcance universal de la misericordia divina y el diseño de la gracia sobre la soberbia.
+El **Libro de Miqueas** es el sexto de los Profetas Menores dentro de las Sagradas Escrituras en la línea de tiempo de **God Universo**. Su nombre significa "¿Quién es como Jehová?" y establece un poderoso equilibrio entre la denuncia de la corrupción social y las profecías más claras sobre el origen geográfico del Mesías y el establecimiento de la paz mundial.
 
 ---
 
-## 🌌 1. La Huida, la Tormenta y la Preservación (Capítulos 1-2)
-Esta sección narra el intento del profeta de evadir su asignación y la intervención del Creador en la naturaleza bajo el diseño de su soberanía:
-* **El Desvío hacia Tarsis (Cap. 1):** La orden de ir a predicar a la gran ciudad de Nínive, la desobediencia de Jonás al abordar un barco en dirección contraria y la gran tormenta que desata Dios, concluyendo con el profeta lanzado al mar y tragado por un gran pez.
-* **La Oración en las Profundidades (Cap. 2):** El clamor de Jonás desde el vientre del pez, un poema de arrepentimiento y reconocimiento de que la salvación pertenece al Señor, tras lo cual es vomitado en tierra firme.
+## 🌌 1. Denuncia de la Injusticia Social y Juicio Inminente (Capítulos 1-3)
+Esta sección narra las fuertes reprensiones contra la opresión económica y la corrupción de los líderes bajo el diseño de la justicia divina:
+* **El Juicio sobre Samaria y Jerusalén (Cap. 1-2):** El descenso del Creador para testificar contra el pueblo, la denuncia específica contra aquellos que codician campos y los roban, y la represión a los falsos profetas que intentan silenciar la verdad.
+* **Corrupción en las Esferas de Poder (Cap. 3):** La confrontación directa a los gobernantes que abusan de los desamparados, a los profetas que predican por dinero y a los sacerdotes que enseñan por precio, advirtiendo que Jerusalén será convertida en un montón de ruinas.
 
-## 👑 2. La Predicación en Nínive y la Lección de la Planta (Capítulos 3-4)
-El enfoque se transforma hacia el cumplimiento de la misión y la confrontación directa del Creador hacia el corazón del profeta a través de dos aspectos clave:
-1. **El Mensaje y el Arrepentimiento Nacional (Cap. 3):** La segunda oportunidad de Jonás para proclamar el juicio en Nínive, lo que desata un ayuno y arrepentimiento masivo desde el rey hasta los animales, moviendo a Dios a detener el castigo.
-2. **El Enojo de Jonás y la Compasión Divina (Cap. 4):** El disgusto del profeta por la misericordia mostrada a los enemigos de su pueblo y la lección objetiva de la calabacera que se seca, donde el Creador confronta su falta de piedad frente a las miles de almas de la ciudad.
+## 👑 2. El Reino Futuro, el Nacimiento en Belén y el Camino de la Rectitud (Capítulos 4-7)
+El enfoque se transforma hacia una de las promesas de redención y paz eterna más sublimes de las Escrituras a través de dos aspectos clave:
+1. **La Paz de las Naciones y el Gobernante Eterno (Cap. 4-5):** La profecía del monte de la casa del Señor donde las espadas se convertirán en arados, y la célebre declaración que detalla que de Belén Efrata saldrá el Señor y Pastor de Israel, cuyos orígenes son desde los días de la eternidad.
+2. **El Requerimiento Divino y la Compasión Final (Cap. 6-7):** La síntesis perfecta de lo que Dios pide del ser humano (hacer justicia, amar misericordia y humillarse ante Dios), concluyendo con una alabanza al Creador que sepulta los pecados en lo profundo del mar.
 
 ---
 _Espacio del proyecto La Biblia por God Universo dedicado al estudio y la verdad de las Escrituras._
