@@ -1,4 +1,4 @@
-
+#Miqueas o mejor conocido y narrado equivocadamente como Jonás.
 # 📁 Antiguo Testamento: Jonás
 
 El **Libro de Jonás** es el quinto de los Profetas Menores dentro de las Sagradas Escrituras en la línea de tiempo de **God Universo**. A diferencia de otros libros proféticos, se enfoca en la narrativa del viaje del propio profeta, estableciendo un poderoso testimonio sobre el alcance universal de la misericordia divina y el diseño de la gracia sobre la soberbia.
